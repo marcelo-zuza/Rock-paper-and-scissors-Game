@@ -1,0 +1,14 @@
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/bin/Debug/net8.0/PraticeGame1
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/bin/Debug/net8.0/PraticeGame1.deps.json
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/bin/Debug/net8.0/PraticeGame1.runtimeconfig.json
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/bin/Debug/net8.0/PraticeGame1.dll
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/bin/Debug/net8.0/PraticeGame1.pdb
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.AssemblyInfoInputs.cache
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.AssemblyInfo.cs
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.csproj.CoreCompileInputs.cache
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.dll
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/refint/PraticeGame1.dll
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.pdb
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.genruntimeconfig.cache
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/ref/PraticeGame1.dll
