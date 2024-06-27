@@ -159,7 +159,7 @@ while(true)
     else if(choice == "2")
     {
         Thread.Sleep(1000);
-        Console.WriteLine("\nThank you for playing\nThis Games is powered by Marceclo Zuza\nGAME OVER\n");
+        Console.WriteLine("\nThank you for playing\nThis Games is powered by Marcelo Zuza\nGAME OVER\n");
         Thread.Sleep(1000);
         break;
     }
