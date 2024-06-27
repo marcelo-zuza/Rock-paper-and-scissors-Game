@@ -12,3 +12,4 @@
 /home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.pdb
 /home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.genruntimeconfig.cache
 /home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/ref/PraticeGame1.dll
+/home/marcelo-zuza/Developer/Praticing/PraticeGame1/obj/Debug/net8.0/PraticeGame1.sourcelink.json

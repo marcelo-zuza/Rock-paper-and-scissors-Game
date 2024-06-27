@@ -21,7 +21,7 @@ while(true)
         {
             Thread.Sleep(1000);
             Console.WriteLine("\nPoints:\nYou: " + playerPoints + "\nComputer: " + computerPoints);
-            Console.Write("\n Choose one option:\n[any] Play\n[2] Quit\n==>");
+            Console.Write("\n Choose one option:\n[1] Play\n[2] Quit\n==>");
             string roundOption = Console.ReadLine();
             if(roundOption == "1")
             {
